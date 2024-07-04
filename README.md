@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Jul/04: r0.925. BOT4: Working control panel, speed options, messages
 Jun/28: r0.911: BOT4: Bot controller: start and stop
 Jun/13: r0.910: Full Test: docs and bot. Added return messages for response handlin. Fixed printx.
 Jun/12: r0.908: controller.out withing a invokeLater
