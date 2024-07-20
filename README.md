@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Jul/20: r0.930  Fixed bin settings in EcuBot
 Jul/19: r0.930  Binary settings. GUI: Admin settings. Asynchronous feedbak.
 Jul/18: r0.927  BOT4: asynchronous feedbak
 Jul/08: r0.926. BOT4: Modified to work with PERU for NTA
