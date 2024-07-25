@@ -2,7 +2,9 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
-Jul/20: r0.930  Fixed bin settings in EcuBot
+Jul/24: r0.932  GUI: Improving InputsView:onProcessingDocument.
+Jul/23: r0.931  SRV: Unifying "getBultosInfo", new getBultosInfo(CPI|MCI) and cases for LOGITRANS
+Jul/20: r0.930  Fixed bin settings in EcuBot. Working list_blobs in EcuFeedback
 Jul/19: r0.930  Binary settings. GUI: Admin settings. Asynchronous feedbak.
 Jul/18: r0.927  BOT4: asynchronous feedbak
 Jul/08: r0.926. BOT4: Modified to work with PERU for NTA
