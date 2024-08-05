@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Ago/065 r0.934  SRV: Modified for LOGITRANS aduanas and Vehiculo errors. GUI: Modified for ALERTS:||NEEDED.
 Jul/25: r0.933  GUI: Fixed stopping server
 Jul/24: r0.932  GUI: Improving InputsView:onProcessingDocument.
 Jul/23: r0.931  SRV: Unifying "getBultosInfo", new getBultosInfo(CPI|MCI) and cases for LOGITRANS
