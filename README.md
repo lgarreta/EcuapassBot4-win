@@ -2,7 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
-Aug/14: r0.934  BOT: Improved "manifiesto:aduanas pais-ciudad". Up-Down to wait cities.
+Aug/16: r0.936  GUI: Release from file. DOC: Huaquillas Distrito. BOT: "aduanas pais-ciudad" Up-Down to wait cities.
 Aug/13: r0.935  SRV: Added 'updateFieldsFromFields : updateDistrito'. Improved Extractor : getPaisCiudad.
 Aug/06: r0.934  SRV: Modified for LOGITRANS aduanas and Vehiculo errors. GUI: Modified for ALERTS:||NEEDED.
 Jul/25: r0.933  GUI: Fixed stopping server
