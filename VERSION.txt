@@ -1,0 +1,1 @@
+Aug/16: r0.936  GUI: Release from file. DOC: Huaquillas Distrito. BOT: "aduanas pais-ciudad" Up-Down to wait cities.
