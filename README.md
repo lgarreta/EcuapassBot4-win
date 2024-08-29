@@ -2,6 +2,9 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Aug/29: r0.942  DOC: Fixed updateEcuFields, getDocNumber
+Aug/28: r0.941  DOC: Sin Marcas
+Aug/27: r0.940  DOC: Improved for LOGITRANS COL: Transito, getPaisCiudad, getFechaEntrega, getPlacaPais.
 Aug/16: r0.936  GUI: Release from file. DOC: Huaquillas Distrito. BOT: "aduanas pais-ciudad" Up-Down to wait cities.
 Aug/13: r0.935  SRV: Added 'updateFieldsFromFields : updateDistrito'. Improved Extractor : getPaisCiudad.
 Aug/06: r0.934  SRV: Modified for LOGITRANS aduanas and Vehiculo errors. GUI: Modified for ALERTS:||NEEDED.

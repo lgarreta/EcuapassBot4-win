@@ -1,1 +1,3 @@
-Aug/16: r0.936  GUI: Release from file. DOC: Huaquillas Distrito. BOT: "aduanas pais-ciudad" Up-Down to wait cities.
+Aug/29: r0.942  DOC: Fixed updateEcuFields, getDocNumber
+Aug/28: r0.941  DOC: Sin Marcas
+Aug/27: r0.940  DOC: Improved for LOGITRANS COL: Transito, getPaisCiudad, getFechaEntrega, getPlacaPais.
