@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Oct/08: r0.943  Modifies for ALCOMEX
 Aug/29: r0.942  DOC: Fixed updateEcuFields, getDocNumber
 Aug/28: r0.941  DOC: Sin Marcas
 Aug/27: r0.940  DOC: Improved for LOGITRANS COL: Transito, getPaisCiudad, getFechaEntrega, getPlacaPais.
