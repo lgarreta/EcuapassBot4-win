@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Dic/03: r0.945  Final version 4.0: Added starting message: "Version expired"
 Oct/08: r0.944  Modified GUI setttins to update for ALCOMEX ECUADOR
 Oct/08: r0.943  Modifies for ALCOMEX
 Aug/29: r0.942  DOC: Fixed updateEcuFields, getDocNumber
